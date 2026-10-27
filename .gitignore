@@ -1,0 +1,7 @@
+.env
+.firefox-profile/
+screenshots/
+*.log
+*.json
+__pycache__/
+.pytest_cache/
